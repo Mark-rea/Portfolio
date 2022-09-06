@@ -1,3 +1,14 @@
+//=================== THE TOP WELCOME SECTION
+// var myName = "Mark Rea";
+// var yourName = prompt("What is your name?");
+// var firstLetter = yourName.slice(0,1);
+// var upperFirstLetter = firstLetter.toUpperCase();
+// var theRest = yourName.slice(1,yourName.length);
+// theRest = theRest.toLowerCase();
+// var completeName = upperFirstLetter + theRest;
+// alert("Hello I am " + myName + " .Welcome to my personal portfolio " + completeName + "!");
+
+
 /*==================== MENU SHOW Y HIDDEN ====================*/
 const navMenu = document.getElementById('nav-menu'),
       navToggle = document.getElementById('nav-toggle'),
